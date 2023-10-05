@@ -1,4 +1,4 @@
-# Ex. No. 5 - SIMULATION-OF-DELTA-3D-PRINTER-MACHINE
+# Ex-05---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE
 
 ### DATE: 
 ## AIM:
@@ -87,8 +87,8 @@ LCD stands for Liquid Crystal Display. In the context of a delta 3D printer asse
 ![image](https://github.com/amrutha23ashok/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/120772913/1a0d2652-7338-4d08-b9bb-ffdfd94ae89d)
 
 
-### Name:V.A.JITHENDRA
-### Register Number:2122221230043
+### Name: KERSOAN P
+### Register Number: 212221230050
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
