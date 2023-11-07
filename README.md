@@ -1,11 +1,13 @@
-# Ex. No. 5 - SIMULATION-OF-DELTA-3D-PRINTER-MACHINE
+# Ex--05--SIMULATION-OF-DELTA-3D-PRINTER-MACHINE
 
-### DATE: 
 ## AIM:
 ### To simulate the construction of delta 3D printer and to get in-depth knowledge of mechatronics of delta 3D printer.
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/c784471e-098f-456d-9c1b-e9f0ce56cc9b)
-
+```
+Name: BEJIN B
+Register Number: 212222230021
+```
 ## REQUIREMENTS:
 ### ●	System - Windows 7 or higher, 1 GB RAM.
 
@@ -33,8 +35,6 @@
 
 ![5](https://github.com/Aakash0407/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/118799103/20fa7fab-4bc2-4647-8ff6-1ea26fb7d389)
 
-### Name: BEJIN B
-### Register Number: 212222230021
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
