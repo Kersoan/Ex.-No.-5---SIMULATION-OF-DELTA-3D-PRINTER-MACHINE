@@ -5,8 +5,8 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/c784471e-098f-456d-9c1b-e9f0ce56cc9b)
 ```
-Name: BEJIN B
-Register Number: 212222230021
+Name: Kersoan P
+Register Number: 212221230050
 ```
 ## REQUIREMENTS:
 ### ●	System - Windows 7 or higher, 1 GB RAM.
